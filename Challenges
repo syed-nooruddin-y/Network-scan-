@@ -1,0 +1,6 @@
+## Challenges Faced
+
+- Initially faced issues with network connectivity ,  which prevented Nmap from detecting the correct IP range.
+- Learned how to troubleshoot network interface issues using ip a, ifconfig, and NetworkManager.
+- Faced delays due to hotspot routing and IPv6-only configuration before fixing to IPv4.
+- Overcame these challenges by researching, testing different configurations, and validating results with Wireshark.
