@@ -8,7 +8,7 @@ The objective of this task is to perform a network scan, identify active hosts, 
 
 ## 🛠 Tools Used
 - **Nmap**
-- **Wireshark**
+
 - **Kali Linux**
 
 ---
