@@ -1,0 +1,7 @@
+## Future Improvements
+
+- Perform deeper vulnerability scanning using Nmap scripts (Nmap NSE).
+- Automate daily scans with a Bash script for better network monitoring.
+- Use tools like Nikto or OpenVAS to expand vulnerability assessment.
+- Document each scan with timestamps and compare changes over time.
+- Explore firewall hardening and port restriction techniques to improve network security.
