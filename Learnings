@@ -4,6 +4,5 @@
 - Learned how different Nmap flags (-sS, -sV, -T4, --min-rate) affect scan speed and accuracy.
 - Understood how to identify active hosts, open ports, and running services on a network.
 - Improved my ability to analyze Nmap outputs and differentiate between normal and risky services.
-- Learned how Wireshark can be used to validate scan traffic and observe packets in real time.
 - Understood the importance of minimizing exposed services to reduce the attack surface.
 - Realized how misconfigured or outdated services can lead to real-world vulnerabilities.
